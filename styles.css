@@ -53,11 +53,6 @@ footer {
   opacity: 0.8;
 }
 
-.pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
-  opacity: 0.5;
-}
-
 .red {
   color: red;
 }
@@ -78,4 +73,11 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+.pressed {
+  transform: scale(0.95);
+  transition: all 0.1s;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+  animation: flash 0.1s linear;
 }
