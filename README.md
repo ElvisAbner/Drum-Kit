@@ -55,21 +55,7 @@ This code adds a keydown event listener to the document, which triggers whenever
 That's it! This JavaScript code creates a drum kit that can be played by clicking on the drum elements or pressing keys on the keyboard. It also adds a visual feedback animation to the drum elements to give the user a better experience.
 
 
-Create a drum kit with more drum sounds and buttons.
 
-Create a keyboard synthesizer that produces different sounds when different keys are pressed.
-
-Create a music player that plays songs based on user input.
-
-Create a simple game where the player has to press keys in the correct sequence to progress through levels.
-
-Create an animation that responds to user input, such as a bouncing ball that changes direction when a key is pressed.
-
-Create a soundboard that allows users to play various sounds and effects.
-
-Create a quiz game where users have to answer questions by pressing keys on their keyboard.
-
-These challenges will help you practice and improve your JavaScript skills, especially when it comes to event handling and working with audio and animations. Good luck!
 
 
 
